@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-04T12:05:55" hostname="FR-LEV1-FX14187.local" time="0.062">
-  <properties/>
-  <testcase name="my test()" classname="MyTest" time="0.062"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
